@@ -1,9 +1,10 @@
 # nilgallardo.github.io
-This project consists on making a user persona for your website.
-For the distributation of the information, I have separated the information in 3 diferent section, for each section I've(+1) used a div tag. There is the header section, the left section and the right one. 
-The header contains my name, my surnames and a photo of mine.
-The left section contains my contact information like the email and the phone number. Also contains all the languages I speak and the level I can speak them.
-The right one contains a brief description of me. Contains the studies I have and where I've studied. Also contains my experience working, I've put the name of the company and the things I've done there. I've put some basic informatics knowledge too.
-I've decided to do this sections to separete the information with a more personal things of me like languages and contact on the left side and on the right site I put some information to present myself like knowledge, past works...
-
+This project consists of making a user persona for your website.
+For the distribution of the information, I have separated the information into 3 different sections, for each section I've used a div tag. There is the header section, the left section, and the right one.
+The header contains my name, my surnames, and a photo of mine.
+The left section contains my contact information like the email and the phone number. It also contains all the languages I speak and the level I can speak them.
+The right one contains a brief description of me. It contains the studies I have and where I've studied. It also contains my experience working, I've put the name of the company and the things I've done there. I've also put some basic informatics knowledge.
+I've decided to do these sections to separate the information with more personal things about me like languages and contact on the left side, and on the right side, I put some information to present myself like knowledge, past works.
+Speaking of the design, I wanted to put the CV on a type of paper sheet, so I used a box-shadow to give that impression. I used two different font families, one for the headers and the other for the rest of the text. I mainly did this because I didn't like how the font for the text looked for the titles. I bolded all the headers and subtitles like the level of languages, the names of the companies I worked for. I colored the background of the main header because I wanted to make it a little bit colorful to attract attention when someone reads it, that's why I also made the separation bars bigger and colored them too. I justified all the content and aligned the text for a better look.
 Link figma: https://www.figma.com/design/VFOm4KSNAzSugoWVHAN8GF/CV-Plantilla?node-id=0-1&t=jUMNIkrMR0JiliJd-1
+Link page: https://nilgallardo.github.io
